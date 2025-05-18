@@ -54,7 +54,7 @@ This project is designed for:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **MySQL**
 - **SQL DDL & DML**
